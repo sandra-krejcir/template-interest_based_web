@@ -1,0 +1,34 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="7.25" height="7.25" viewBox="0 0 7.25 7.25">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: #fff;
+        stroke-linecap: round;
+      }
+
+      .cls-1, .cls-2 {
+        stroke: #000;
+        stroke-miterlimit: 10;
+        stroke-width: 0.25px;
+      }
+
+      .cls-2 {
+        fill: none;
+      }
+    </style>
+  </defs>
+  <g id="Layer_2" data-name="Layer 2">
+    <g id="Layer_2-2" data-name="Layer 2">
+      <g>
+        <circle class="cls-1" cx="3.63" cy="3.63" r="3.5"/>
+        <g>
+          <line x1="2.13" y1="3.63" x2="5.13" y2="3.63"/>
+          <g>
+            <line class="cls-2" x1="3.62" y1="3.63" x2="5.13" y2="3.63"/>
+            <polygon points="4.32 4.55 3.93 3.63 4.32 2.7 2.13 3.63 4.32 4.55"/>
+          </g>
+        </g>
+      </g>
+    </g>
+  </g>
+</svg>
